@@ -54,7 +54,7 @@ body {
   font-weight: 700;
   color: #dfe6e9;
   line-height: 0.7em;
-  margin-top: -80px;
+  margin-top: -60px;
 }
 
 .countdown-section .countdown-box h2 span {
@@ -63,6 +63,11 @@ body {
   letter-spacing: 6px;
   font-size: 80px;
   line-height: 105px;
+}
+
+.countdown-section .countdown-box .countdown {
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 .countdown-section .countdown-box .countdown .timing-count {

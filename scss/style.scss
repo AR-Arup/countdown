@@ -27,7 +27,7 @@ body {
             font-weight: 700;
             color: #dfe6e9;
             line-height: 0.7em;
-            margin-top: -80px;
+            margin-top: -60px;
 
             span {
                 display: block;
@@ -54,6 +54,8 @@ body {
         box-shadow: 0 0 70px #414A51;
 
         .countdown {
+            text-align: center;
+            margin-bottom: 20px;
             .timing-count {
                 display: inline-block;
                 position: relative;
